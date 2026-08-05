@@ -1,0 +1,11 @@
+# Archivos de configuración de VS Code
+.vscode/
+
+# Binarios y ejecutables en C (archivos sin extensión en Linux)
+*.o
+*.out
+*.exe
+
+# Archivos temporales de Linux
+*~
+.DS_Store
