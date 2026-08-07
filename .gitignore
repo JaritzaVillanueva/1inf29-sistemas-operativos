@@ -1,11 +1,65 @@
 # Archivos de configuración de VS Code
 .vscode/
 
-# Binarios y ejecutables en C (archivos sin extensión en Linux)
+# Archivos compilados de C
 *.o
 *.out
 *.exe
 
+# Ejecutables compilados en Linux/WSL
+bin/
+build/
+
 # Archivos temporales de Linux
 *~
 .DS_Store
+
+# Ejecutables sin extensión
+/practice/dining
+/Laboratorio_3/ejemplo_timed
+/Laboratorio_3/ejemplo5_sjf
+/Laboratorio_3/tenedores
+/Laboratorio_3/prod_cons
+/Laboratorio_3/multi_prod_cons
+/Laboratorio_3/ejemplo5
+/Laboratorio_3/ejemplo2
+/Laboratorio_3/ejemplo_hilos
+/Laboratorio_3/ejemplo3
+/Laboratorio_3/ejemplo1
+/Laboratorio_5/fallos_reales_demo
+/Laboratorio_5/sim_reemplazo
+/Laboratorio_6/ejemplo4
+/Laboratorio_6/ejemplo5
+/Laboratorio_6/ejemplo2
+/Laboratorio_6/ejemplo3
+/Laboratorio_6/ejemplo1
+/Laboratorio_2/ejemplo4.1
+/Laboratorio_2/lector_escritor
+/Laboratorio_2/ejemplo4
+/Laboratorio_2/multi_pc
+/Laboratorio_2/ejemplo2
+/Laboratorio_2/filosofos
+/Laboratorio_2/ejemplo3
+/Laboratorio_2/prodcons
+/Laboratorio_2/ejemplo1
+/Laboratorio_4/ejemplo4
+/Laboratorio_4/ejemplo5
+/Laboratorio_4/ejemplo2
+/Laboratorio_4/ejemplo3
+/Laboratorio_4/buddy
+/Laboratorio_4/ejemplo1
+/Laboratorio_1/Parte B/Tarea_5/forkpipe
+/Laboratorio_1/Parte A/Tarea_2/fanp-2
+/Laboratorio_1/Parte A/Tarea_2/multifork
+/Laboratorio_1/Parte A/Tarea_2/chainp-2
+/Laboratorio_1/Parte A/Tarea_2/isengfork
+/Laboratorio_1/Parte A/Tutorial/mypid_v2
+/Laboratorio_1/Parte A/Tutorial/mypid_v3
+/Laboratorio_1/Parte A/Tutorial/mypid_v1
+/Laboratorio_1/Parte A/Tarea_3/isengfork-2
+/Laboratorio_1/Parte A/Tarea_3/multifork-2
+/Laboratorio_1/Parte A/Tarea_3/binarytree
+/Laboratorio_1/Parte A/Tarea_4/binarytree-2
+/Laboratorio_1/Parte A/Tarea_4/treen
+/Laboratorio_1/Parte A/Tarea_1/chainp
+/Laboratorio_1/Parte A/Tarea_1/fanp

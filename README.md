@@ -16,5 +16,9 @@ Repositorio para los laboratorios, prácticas y códigos del curso **1INF29 - Si
 - `Laboratorio_6/`: Sistemas de archivos (Inodos y bitmaps).
 
 ---
+## Método de ejecución
+`gcc practice/dining_philosophers.c -o bin/dining`
+
+---
 ## Honestidad Académica
 El código fuente presente se publica únicamente con fines educativos y de portafolio personal. Si eres estudiante del curso, se recomienda usar este material únicamente como referencia conceptual.
